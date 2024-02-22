@@ -19,8 +19,8 @@ Welcome to the Employee Directory App! This application allows you to manage emp
   - Edit or delete employee details by clicking on the corresponding buttons.
   
 + Create Employee:
- - Click on the "Create" button in the Employee Directory to navigate to the Create Employee page.
- - Fill out the form to add a new employee.
+  - Click on the "Create" button in the Employee Directory to navigate to the Create Employee page.
+  - Fill out the form to add a new employee.
 
 ## Technologies Used
 
