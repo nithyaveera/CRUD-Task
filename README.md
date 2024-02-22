@@ -1,6 +1,6 @@
 # Employee Directory App
 
-`Front-end Deployed URL` =>
+`Front-end Deployed URL` => https://employee-directory-app-task.netlify.app/
 
 Welcome to the Employee Directory App! This application allows you to manage employee details using `CRUD `operations.
 
